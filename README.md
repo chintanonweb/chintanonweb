@@ -47,6 +47,12 @@ I am a passionate *Full Stack Developer* who loves building dynamic, scalable, a
 
 ---
 
+## 🤝 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chintanonweb) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27865069/chintan) [![Dev.to](https://img.shields.io/badge/DevTo-ffffff?logo=devdotto&logoColor=black)](https://dev.to/chintanonweb) [![Medium](https://img.shields.io/badge/Medium-ffffff?logo=medium&logoColor=black)](https://medium.com/@chintanonweb)
+
+---
+
 <p align="center">
 <h6 align="center">Show some ❤️ by starring some of the <a href="https://github.com/chintanonweb?tab=repositories">repositories!</a></h6>
 
