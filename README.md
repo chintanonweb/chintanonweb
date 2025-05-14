@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hey there! I am [Chintanonweb](https://github.com/chintanonweb) 👋
 
-<!--
-**chintanonweb/chintanonweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--<p align="left"> 
+	<img src="https://komarev.com/ghpvc/?username=chintanonweb&color=blue" alt="chintanonweb" /> 
+</p>--> 
 
-Here are some ideas to get you started:
+I am a passionate *Full Stack Developer* who loves building dynamic, scalable, and performant web applications using modern JavaScript frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<img align="right" height="200px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+### 🚀 About Me
+
+* 🔭 Currently working on Full Stack projects using *Angular*, *React.js*, *Next.js*, and *Node.js*
+* 💻 Skilled in both *Frontend* and *Backend* technologies
+* 🌐 Building responsive, cross-platform web apps with *Tailwind CSS*, *JavaScript*, and *TypeScript*
+* 🤝 Open to collaborate on web development projects using *Angular*, *React*, *Next.js*, and *Shopify App Development*
+* 💬 Ask me about JavaScript, Web APIs, or architecture patterns – happy to help! 😄
+* 📫 How to reach me: *[chintandhokai97@gmail.com](mailto:chintandhokai97@gmail.com)*
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+* *Frontend:* Angular, React.js, Next.js, JavaScript, TypeScript, Tailwind CSS, Bootstrap, HTML5, CSS3
+* *Backend:* Node.js, Express.js, REST APIs, MongoDB, Firebase, SQL
+* *Tools & DevOps:* Git, GitHub, Vercel, Netlify, Postman, VS Code
+* *Others:* Responsive Design, Component Architecture, State Management (Redux, Context API), Web Performance Optimization
+
+---
+
+### 📈 GitHub Stats
+
+<p> 
+  <img src="https://github-readme-stats.vercel.app/api?username=chintanonweb&show_icons=true&theme=radical" alt="chintanonweb" width="50%"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintanonweb&layout=compact&theme=radical" alt="chintanonweb" align="right" width="40%"/> 
+</p>
+
+---
+
+### 🔗 Connect with Me
+
+[<img align="left" alt="LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />](https://www.linkedin.com/in/chintanonweb)
+[<img align="left" alt="Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />](https://www.instagram.com/chintanonweb/)
+[<img alt="Gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="30px">](mailto:chintandhokai97@gmail.com) <br>
+
+---
+
+<p align="center">
+<h6 align="center">Show some ❤️ by starring some of the <a href="https://github.com/chintanonweb?tab=repositories">repositories!</a></h6>
+
+---
